@@ -1,4 +1,4 @@
-version="5.13.0-rc6"
+version="5.11.0-rc3"
 echo "Removing kernel-$version"
 sudo rm /boot/vmlinuz-"${version}"
 sudo rm /boot/initrd.img-"${version}"
